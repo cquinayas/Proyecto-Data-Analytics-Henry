@@ -9,3 +9,4 @@
 [EDA.ipynb]()
 
 2. Desarrollo de un dashboard en Streamlit
+<https://cquinayas-proyecto-data-analytics-henry-app-r5hfvx.streamlit.app/>
