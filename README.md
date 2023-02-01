@@ -1,3 +1,5 @@
+![Mooc](https://github.com/cquinayas/Proyecto-Data-Analytics-Henry/blob/main/mooc.png)
+
 # Proyecto Individual 3 Data Analytics
 
 * Segmentar el nivel de ventas según precio, idioma, nivel y rating de cada curso para analizar qué tanto influyen dichas variables en la demanda del producto vendido
