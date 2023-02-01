@@ -6,7 +6,7 @@
 
 # Desarrollo del proyecto
 1. Análisis exploratorio de los datos (EDA)
-[EDA.ipynb]()
+[EDA.ipynb](https://github.com/cquinayas/Proyecto-Data-Analytics-Henry/blob/main/EDA.ipynb)
 
 2. Desarrollo de un dashboard en Streamlit
 <https://cquinayas-proyecto-data-analytics-henry-app-r5hfvx.streamlit.app/>
