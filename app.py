@@ -24,7 +24,7 @@ with row0_2:
 row3_spacer1, row3_1, row3_spacer2 = st.columns((.1, 3.2, .1))
 with row3_1:
     st.markdown("### **Dashboard que permite analizar el nivel de ventas según precio, idioma, nivel y rating  en las plataformas Coursera, EDX y Udemy**")
-    st.markdown("**Puedes encontrar el repositorio en [cquinayas GitHub Repositorio](https://github.com/tdenzl/BuLiAn)**")
+    st.markdown("**Puedes encontrar el repositorio en [cquinayas GitHub Repositorio](https://github.com/cquinayas/Proyecto-Data-Analytics-Henry)**")
 
 row7_spacer1, row7_1, row7_spacer2 = st.columns((.1, 3.2, .1))
 with row7_1:
