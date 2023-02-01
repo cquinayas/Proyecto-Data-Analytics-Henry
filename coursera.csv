@@ -1,0 +1,289 @@
+,title,n_enrolled,level,language,rating,price,sales
+0,A Crash Course in Causality:  Inferring Causal Effects from Observational Data,35459.0,Intermediate,English,5.0,39,1382901.0
+4,AI for Medical Prognosis,101185.0,Intermediate,English,5.0,39,3946215.0
+5,AWS Fundamentals: Addressing Security Risk,48257.0,Beginner,English,4.0,39,1882023.0
+7,Aboriginal Worldviews and Education,28540.0,Beginner,Spanish,5.0,39,1113060.0
+9,Accounting Analytics,225506.0,Intermediate,English,4.0,39,8794734.0
+11,Actualización en el manejo del paciente con diabetes mellitus tipo 2,51595.0,Beginner,English,5.0,39,2012205.0
+12,Addiction Treatment: Clinical Skills for Healthcare Providers,168412.0,Advanced,English,5.0,39,6568068.0
+14,Advertising and Society,107497.0,Beginner,English,5.0,39,4192383.0
+15,Agile Meets Design Thinking,134300.0,Beginner,English,5.0,39,5237700.0
+16,Agile with Atlassian Jira,39787.0,Intermediate,English,5.0,39,1551693.0
+17,Agile и Scrum в работе над проектами и продуктами,33873.0,Beginner,English,5.0,39,1321047.0
+18,Algorithmic Toolbox,117596.0,Beginner,English,5.0,39,4586244.0
+19,American Contract Law I,271718.0,Beginner,Spanish,5.0,39,10597002.0
+20,An Introduction to American Law,346261.0,Intermediate,English,5.0,39,13504179.0
+21,An Introduction to Consumer Neuroscience & Neuromarketing,207091.0,Beginner,English,5.0,39,8076549.0
+24,Ancient Philosophy: Plato & His Predecessors,58480.0,Advanced,English,4.0,39,2280720.0
+25,Animal Behaviour and Welfare,262625.0,Beginner,English,5.0,39,10242375.0
+26,Antibiotic Stewardship,50934.0,Intermediate,English,4.0,39,1986426.0
+27,Anticorrupción: Introducción a conceptos y perspectiva práctica,18864.0,Intermediate,English,5.0,39,735696.0
+28,Applied Data Science Capstone,93961.0,Intermediate,English,5.0,39,3664479.0
+29,Applied Machine Learning in Python,98024.0,Beginner,English,5.0,39,3822936.0
+31,Aprendiendo a aprender: Poderosas herramientas mentales con las que podrás dominar temas difíciles (Learning How to Learn),39125.0,Beginner,English,5.0,39,1525875.0
+33,Astronomy: Exploring Time and Space,55177.0,Advanced,English,5.0,39,2151903.0
+34,Autism Spectrum Disorder,38654.0,Advanced,English,5.0,39,1507506.0
+35,Autodesk Certified Professional: AutoCAD for Design and Drafting Exam Prep,9210.0,Beginner,English,5.0,39,359190.0
+36,Autodesk Certified Professional: Revit for Architectural Design Exam Prep,80539.0,Intermediate,English,5.0,39,3141021.0
+37,Basic Statistics,189355.0,Intermediate,English,5.0,39,7384845.0
+39,Bayesian Statistics: Techniques and Models,38012.0,Beginner,English,5.0,39,1482468.0
+43,Beyond the Sustainable Development Goals (SDGs): Addressing Sustainability and Development,285891.0,Beginner,English,5.0,39,11149749.0
+44,"Big Data Essentials: HDFS, MapReduce and Spark RDD",246012.0,Beginner,English,3.0,39,9594468.0
+45,Big History: Connecting Knowledge,470054.0,Beginner,Spanish,5.0,39,18332106.0
+46,Biohacking Your Brain's Health,70775.0,Beginner,English,5.0,39,2760225.0
+48,Blockchain Basics,103362.0,Beginner,English,5.0,39,4031118.0
+51,Bugs 101: Insect-Human Interactions,324020.0,Intermediate,Spanish,5.0,39,12636780.0
+52,Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course),174394.0,Beginner,English,5.0,39,6801366.0
+53,Build a Modern Computer from First Principles: Nand to Tetris Part II (project-centered course),13519.0,Intermediate,English,5.0,39,527241.0
+54,Building Batch Data Pipelines on GCP,39853.0,Intermediate,English,4.0,39,1554267.0
+55,Building Containerized Applications on AWS,211180.0,Intermediate,English,4.0,39,8236020.0
+58,Building Scalable Java Microservices with Spring Boot and Spring Cloud,100025.0,Beginner,English,4.0,39,3900975.0
+59,Business English: Networking,76447.0,Beginner,English,5.0,39,2981433.0
+60,Business Metrics for Data-Driven Companies,120989.0,Beginner,English,5.0,39,4718571.0
+61,Business Model Innovation,37192.0,Beginner,English,5.0,39,1450488.0
+63,Business Writing,33746.0,Beginner,English,5.0,39,1316094.0
+66,COVID-19: What You Need to Know (CME Eligible),250186.0,Beginner,English,5.0,39,9757254.0
+67,"Cameras, Exposure, and Photography",408011.0,Beginner,English,5.0,39,15912429.0
+68,Camino a la Excelencia en Gestión de Proyectos,11795.0,Beginner,English,5.0,39,460005.0
+69,"Capstone: Retrieving, Processing, and Visualizing Data with Python",22207.0,Beginner,English,5.0,39,866073.0
+73,Child Nutrition and Cooking,64240.0,Beginner,English,5.0,39,2505360.0
+74,Children's Human Rights - An Interdisciplinary Introduction,91707.0,Beginner,English,5.0,39,3576573.0
+75,Chinese for Beginners,297868.0,Beginner,English,5.0,39,11616852.0
+76,Classical Sociological Theory,64031.0,Beginner,English,5.0,39,2497209.0
+77,Claves para Gestionar Personas,94025.0,Intermediate,English,5.0,39,3666975.0
+78,Clinical Terminology for International and U.S. Students,347773.0,Beginner,English,5.0,39,13563147.0
+79,Code Yourself! An Introduction to Programming,219874.0,Beginner,English,5.0,39,8575086.0
+80,Communication Strategies for a Virtual Age,191093.0,Beginner,English,5.0,39,7452627.0
+81,Community Organizing for Social Justice,162505.0,Beginner,English,4.0,39,6337695.0
+82,"Competencias Laborales: Perfiles, Evaluación y Capacitación.",179902.0,Beginner,English,5.0,39,7016178.0
+83,"Competencias digitales. Herramientas de ofimática (Microsoft Word, Excel, Power Point)",66127.0,Beginner,English,5.0,39,2578953.0
+84,Computational Neuroscience,20032.0,Intermediate,English,5.0,39,781248.0
+85,Computational Thinking for Problem Solving,40237.0,Intermediate,Spanish,5.0,39,1569243.0
+86,Construction Project Management,130262.0,Intermediate,English,5.0,39,5080218.0
+88,Continuous Delivery & DevOps,38575.0,Beginner,English,5.0,39,1504425.0
+90,Convolutional Neural Networks in TensorFlow,75882.0,Beginner,English,4.0,39,2959398.0
+91,Corporate & Commercial Law I: Contracts & Employment Law,164652.0,Beginner,English,5.0,39,6421428.0
+92,Corporate Finance Essentials,149999.0,Beginner,French,5.0,39,5849961.0
+94,Corporate Sustainability. Understanding and Seizing the Strategic Opportunity,63461.0,Beginner,English,5.0,39,2474979.0
+98,Creative Problem Solving,29711.0,Beginner,English,5.0,39,1158729.0
+99,Creative Thinking: Techniques and Tools for Success,38749.0,Beginner,English,5.0,39,1511211.0
+100,Creative Writing: The Craft of Plot,57983.0,Beginner,French,5.0,39,2261337.0
+102,Cryptography I,144392.0,Beginner,English,5.0,39,5631288.0
+103,Cultural Competence - Aboriginal Sydney,88630.0,Beginner,English,4.0,39,3456570.0
+104,Curanderismo: Traditional Healing Using Plants,12417.0,Beginner,English,1.0,39,484263.0
+105,Cursos en línea: modelo para armar,34150.0,Beginner,English,5.0,39,1331850.0
+106,Customer Analytics,121626.0,Beginner,English,4.0,39,4743414.0
+107,Customer Segmentation and Prospecting,384138.0,Beginner,Spanish,5.0,39,14981382.0
+108,Cybersecurity Compliance Framework & System Administration,422365.0,Beginner,English,4.0,39,16472235.0
+109,"Cybersecurity Roles, Processes & Operating System Security",127205.0,Beginner,English,5.0,39,4960995.0
+110,Data Analysis with Python,52252.0,Intermediate,English,4.0,39,2037828.0
+111,Data Analytics for Lean Six Sigma,42893.0,Beginner,English,5.0,39,1672827.0
+112,Data Management for Clinical Research,3600.0,Intermediate,English,5.0,39,140400.0
+113,Data Science Math Skills,43175.0,Beginner,English,4.0,39,1683825.0
+114,Data Science Methodology,19054.0,Beginner,French,4.0,39,743106.0
+115,Data Visualization with Python,44506.0,Beginner,English,4.0,39,1735734.0
+116,Data-driven Decision Making,136521.0,Beginner,English,5.0,39,5324319.0
+117,Database Management Essentials,166053.0,Beginner,English,4.0,39,6476067.0
+119,Democracia y decisiones públicas. Introducción al análisis de políticas públicas,64520.0,Intermediate,English,5.0,39,2516280.0
+120,Dentistry 101,41473.0,Intermediate,English,5.0,39,1617447.0
+123,Design Thinking for the Greater Good: Innovation in the Social Sector,39890.0,Beginner,English,5.0,39,1555710.0
+124,Design and Interpretation of Clinical Trials,185290.0,Beginner,English,5.0,39,7226310.0
+125,Design-Led Strategy: Design thinking for business strategy and entrepreneurship,115728.0,Beginner,English,5.0,39,4513392.0
+126,DevOps Culture and Mindset,173902.0,Beginner,English,5.0,39,6782178.0
+127,Developing Your Musicianship,772290.0,Intermediate,English,5.0,39,30119310.0
+128,Devenir entrepreneur du changement,287290.0,Beginner,English,5.0,39,11204310.0
+130,Digital Product Management: Modern Fundamentals,165078.0,Beginner,English,5.0,39,6438042.0
+131,Digital Transformation,133578.0,Beginner,English,5.0,39,5209542.0
+132,Dino 101: Dinosaur Paleobiology,22223.0,Beginner,Spanish,5.0,39,866697.0
+133,Discrete Optimization,63283.0,Beginner,English,5.0,39,2468037.0
+134,Diversity and inclusion in the workplace,255647.0,Beginner,English,5.0,39,9970233.0
+136,Driving business towards the Sustainable Development Goals,30619.0,Beginner,English,5.0,39,1194141.0
+137,Drug Commercialization,24444.0,Intermediate,English,5.0,39,953316.0
+140,Développement psychologique de l'enfant,127051.0,Beginner,English,5.0,39,4954989.0
+142,EMT Foundations,496274.0,Beginner,English,5.0,39,19354686.0
+143,Ecology: Ecosystem Dynamics and Conservation,189526.0,Intermediate,English,5.0,39,7391514.0
+144,Econometrics: Methods and Applications,1311075.0,Beginner,Spanish,5.0,39,51131925.0
+145,Economics of Money and Banking,112984.0,Intermediate,English,5.0,39,4406376.0
+146,Effective Business Presentations with Powerpoint,46115.0,Beginner,English,5.0,39,1798485.0
+147,Effective Compliance Programs,117290.0,Beginner,English,5.0,39,4574310.0
+148,El Abogado del Futuro: Legaltech y la Transformación Digital del Derecho,43201.0,Beginner,English,5.0,39,1684839.0
+149,Elastic Google Cloud Infrastructure: Scaling and Automation,80034.0,Beginner,English,5.0,39,3121326.0
+154,English Composition I,141420.0,Beginner,English,5.0,39,5515380.0
+155,English for Business and Entrepreneurship,62518.0,Beginner,English,5.0,39,2438202.0
+158,Enterprise Architecture,185191.0,Beginner,English,5.0,39,7222449.0
+159,Entrepreneurship 1: Developing the Opportunity,288882.0,Beginner,English,5.0,39,11266398.0
+160,Entrepreneurship 2: Launching your Start-Up,146430.0,Intermediate,English,5.0,39,5710770.0
+161,Entrepreneurship Strategy: From Ideation to Exit,42562.0,Intermediate,Spanish,1.0,39,1659918.0
+162,Entreprise et changement climatique,33901.0,Intermediate,English,5.0,39,1322139.0
+165,Epigenetic Control of Gene Expression,100232.0,Intermediate,Spanish,1.0,39,3909048.0
+166,Equine Welfare and Management,195606.0,Beginner,Spanish,5.0,39,7628634.0
+167,Essential Epidemiologic Tools for Public Health Practice,28824.0,Intermediate,English,5.0,39,1124136.0
+168,Essential Google Cloud Infrastructure: Core Services,56404.0,Beginner,English,5.0,39,2199756.0
+170,Essentials in Clinical Simulations Across the Health Professions,87315.0,Intermediate,English,5.0,39,3405285.0
+171,Essentials of Global Health,155952.0,Beginner,English,5.0,39,6082128.0
+172,European Business Law: Understanding the Fundamentals,654509.0,Intermediate,English,5.0,39,25525851.0
+173,Everyday Chinese Medicine,675034.0,Intermediate,English,5.0,39,26326326.0
+174,"Everyday Excel, Part 1",221493.0,Intermediate,English,5.0,39,8638227.0
+175,"Everyday Excel, Part 2",90317.0,Beginner,English,5.0,39,3522363.0
+176,Everyday Parenting: The ABCs of Child Rearing,289219.0,Beginner,English,5.0,39,11279541.0
+177,Excel Fundamentals for Data Analysis,890309.0,Beginner,English,5.0,39,34722051.0
+178,Excel Skills for Business: Advanced,84755.0,Beginner,English,5.0,39,3305445.0
+179,Excel Skills for Business: Essentials,86185.0,Beginner,English,5.0,39,3361215.0
+180,Excel Skills for Business: Intermediate I,24101.0,Beginner,Spanish,5.0,39,939939.0
+181,Excel Skills for Business: Intermediate II,21032.0,Beginner,English,5.0,39,820248.0
+182,Excel aplicado a los negocios (Nivel Avanzado),117669.0,Beginner,English,5.0,39,4589091.0
+183,"Excel/VBA for Creative Problem Solving, Part 1",51353.0,Intermediate,English,5.0,39,2002767.0
+184,Exploring Renewable Energy Schemes,41987.0,Beginner,English,5.0,39,1637493.0
+185,Exploring ​and ​Preparing ​your ​Data with BigQuery,19443.0,Beginner,English,4.0,39,758277.0
+186,Fashion as Design,290093.0,Intermediate,English,5.0,39,11313627.0
+187,Feminism and Social Justice,67427.0,Beginner,English,5.0,39,2629653.0
+188,FinTech Law and Policy,125724.0,Beginner,English,5.0,39,4903236.0
+191,Finance for Non-Financial Managers,92683.0,Beginner,English,4.0,39,3614637.0
+192,Financial Accounting Fundamentals,101039.0,Beginner,English,5.0,39,3940521.0
+195,Financial Markets,49952.0,Beginner,English,5.0,39,1948128.0
+196,Financial Planning for Young Adults,50009.0,Beginner,English,4.0,39,1950351.0
+197,Financing and Investing in Infrastructure,102303.0,Beginner,English,5.0,39,3989817.0
+198,Finanzas personales,55157.0,Beginner,English,5.0,39,2151123.0
+199,Finding Purpose and Meaning In Life: Living for What Matters Most,20537.0,Intermediate,English,5.0,39,800943.0
+200,First Step Korean,24896.0,Beginner,English,5.0,39,970944.0
+202,Forensic Accounting and Fraud Examination,62517.0,Beginner,English,5.0,39,2438163.0
+203,Foundations for Big Data Analysis with SQL,22999.0,Beginner,Spanish,5.0,39,896961.0
+204,Foundations of Business Strategy,296929.0,Beginner,French,5.0,39,11580231.0
+205,Foundations of Data Science: K-Means Clustering in Python,38898.0,Intermediate,English,5.0,39,1517022.0
+206,Foundations of Mindfulness,101095.0,Beginner,English,5.0,39,3942705.0
+207,Front-End Web Development with React,188443.0,Beginner,English,5.0,39,7349277.0
+209,Functional Programming Principles in Scala,226028.0,Intermediate,English,5.0,39,8815092.0
+210,Fundamental Neuroscience for Neuroimaging,64763.0,Beginner,English,5.0,39,2525757.0
+211,Fundamentals of Engineering Exam Review,238084.0,Beginner,English,4.0,39,9285276.0
+212,Fundamentals of Finance,268691.0,Beginner,English,4.0,39,10478949.0
+213,Fundamentals of GIS,62185.0,Beginner,English,5.0,39,2425215.0
+215,Fundamentals of Immunology: Innate Immunity and B-Cell Function,229172.0,Beginner,English,5.0,39,8937708.0
+219,Fundamentals of Reinforcement Learning,84848.0,Beginner,English,5.0,39,3309072.0
+220,Fundamentals of Scalable Data Science,26206.0,Beginner,English,4.0,39,1022034.0
+221,Fundamentals of Visualization with Tableau,23162.0,Intermediate,English,4.0,39,903318.0
+222,Fundamentos de Excel para Negocios,171888.0,Beginner,English,5.0,39,6703632.0
+224,Gamification,425506.0,Intermediate,English,5.0,39,16594734.0
+225,Gender and Sexuality: Diversity and Inclusion in the Workplace,49633.0,Intermediate,English,5.0,39,1935687.0
+226,Geopolitics of Europe,480465.0,Beginner,English,4.0,39,18738135.0
+227,Gestión Empresarial Exitosa para Pymes,602489.0,Beginner,English,5.0,39,23497071.0
+228,Gestión de organizaciones efectivas,52876.0,Intermediate,English,5.0,39,2062164.0
+230,Getting Started With Music Theory,263956.0,Beginner,English,4.0,39,10294284.0
+231,Getting Started with AWS Machine Learning,254265.0,Beginner,English,4.0,39,9916335.0
+232,Getting Started with Azure,60094.0,Intermediate,English,4.0,39,2343666.0
+234,Getting Started with Go,283045.0,Beginner,English,4.0,39,11038755.0
+235,Getting Started with Google Kubernetes Engine,112343.0,Beginner,English,4.0,39,4381377.0
+236,Getting Started with Google Sheets,102636.0,Beginner,English,5.0,39,4002804.0
+239,Global Diplomacy – Diplomacy in the Modern World,129526.0,Beginner,English,5.0,39,5051514.0
+245,Google Cloud Platform Fundamentals: Core Infrastructure,214619.0,Beginner,English,5.0,39,8370141.0
+247,Grammar and Punctuation,27940.0,Beginner,English,5.0,39,1089660.0
+248,Greek and Roman Mythology,433198.0,Intermediate,English,5.0,39,16894722.0
+249,Greening the Economy: Sustainable Cities,213180.0,Intermediate,English,5.0,39,8314020.0
+250,Guitar for Beginners,46650.0,Beginner,English,5.0,39,1819350.0
+252,"HTML, CSS, and Javascript for Web Developers",20173.0,Beginner,English,5.0,39,786747.0
+253,Hacia una práctica constructivista en el aula,69129.0,Beginner,English,5.0,39,2696031.0
+254,Healing with the Arts,41685.0,Beginner,French,5.0,39,1625715.0
+255,Health Behavior Change: From Evidence to Action,19393.0,Intermediate,English,5.0,39,756327.0
+256,High Stakes Leadership: Leading in Times of Crisis,39006.0,Intermediate,English,5.0,39,1521234.0
+257,How Google does Machine Learning,409253.0,Beginner,English,4.0,39,15960867.0
+259,How to Manage a Remote Team,221806.0,Beginner,English,5.0,39,8650434.0
+260,Human Rights for Open Societies,368759.0,Beginner,English,5.0,39,14381601.0
+262,IBM Customer Engagement Specialist Professional Certificate,308770.0,Beginner,English,5.0,39,12042030.0
+263,IT Security: Defense against the digital dark arts,119509.0,Beginner,English,5.0,39,4660851.0
+266,Improving your statistical inferences,52133.0,Beginner,English,5.0,39,2033187.0
+267,In the Studio: Postwar Abstract Painting,147280.0,Beginner,English,5.0,39,5743920.0
+272,"Information Systems Auditing, Controls and Assurance",204876.0,Beginner,English,5.0,39,7990164.0
+273,Initiating and Planning Projects,546182.0,Beginner,English,5.0,39,21301098.0
+274,Innovation Management,332421.0,Beginner,Portuguese,5.0,39,12964419.0
+275,"Innovation Through Design: Think, Make, Break, Repeat",300081.0,Beginner,English,5.0,39,11703159.0
+276,Inspiring and Motivating Individuals,21395.0,Beginner,English,5.0,39,834405.0
+278,Intercultural Management,185424.0,Beginner,English,4.0,39,7231536.0
+279,International Humanitarian Law in Theory and Practice,418805.0,Intermediate,English,5.0,39,16333395.0
+280,International Law in Action: A Guide to the International Courts and Tribunals in The Hague,188747.0,Beginner,English,5.0,39,7361133.0
+282,International Leadership and Organizational Behavior,44341.0,Beginner,English,5.0,39,1729299.0
+283,International Organizations Management,,Intermediate,English,5.0,39,
+284,International Security Management,,Beginner,English,5.0,39,
+286,International migrations: a global issue,,Intermediate,English,4.0,39,
+287,Introducción a Data Science: Programación Estadística con R,,Beginner,English,5.0,39,
+289,Introduction aux Droits de l’Homme,,Beginner,English,5.0,39,
+290,Introduction to Accounting Data Analytics and Visualization,,Beginner,English,5.0,39,
+293,Introduction to Big Data,,Beginner,English,5.0,39,
+295,Introduction to Business Analytics: Communicating with Data,,Beginner,English,5.0,39,
+296,Introduction to C# Programming and Unity,,Intermediate,English,5.0,39,
+297,Introduction to CSS3,,Beginner,English,5.0,39,
+298,Introduction to Calculus,,Beginner,English,5.0,39,
+300,Introduction to Classical Music,,Intermediate,English,5.0,39,
+302,Introduction to Computer Programming,,Beginner,English,4.0,39,
+306,Introduction to Data Analysis Using Excel,,Beginner,English,5.0,39,
+307,Introduction to Data Analytics,,Beginner,Spanish,5.0,39,
+310,Introduction to Economic Theories,,Beginner,English,4.0,39,
+312,Introduction to Embedded Systems Software and Development Environments,,Beginner,English,4.0,39,
+313,Introduction to Engineering Mechanics,,Beginner,English,5.0,39,
+315,Introduction to Environmental Law and Policy,,Intermediate,English,5.0,39,
+317,Introduction to Forensic Science,,Intermediate,English,5.0,39,
+318,Introduction to G Suite,,Intermediate,English,5.0,39,
+321,Introduction to Genomic Technologies,,Beginner,English,4.0,39,
+324,Introduction to Healthcare,,Beginner,English,4.0,39,
+325,Introduction to Intellectual Property,,Beginner,English,5.0,39,
+327,Introduction to Machine Learning,,Beginner,English,5.0,39,
+328,Introduction to Marketing,,Beginner,French,5.0,39,
+329,Introduction to Mathematical Thinking,,Beginner,English,5.0,39,
+330,Introduction to Molecular Spectroscopy,,Beginner,Portuguese,5.0,39,
+331,Introduction to Negotiation: A Strategic Playbook for Becoming a Principled and Persuasive Negotiator,,Advanced,French,5.0,39,
+332,Introduction to Neuroeconomics: How the Brain Makes Decisions,,Beginner,English,5.0,39,
+335,Introduction to Philosophy,,Beginner,English,5.0,39,
+336,Introduction to Portfolio Construction and Analysis with Python,,Intermediate,English,5.0,39,
+340,Introduction to Psychology,,Intermediate,English,5.0,39,
+341,Introduction to Public Speaking,,Intermediate,English,5.0,39,
+342,Introduction to Search Engine Optimization,,Beginner,English,5.0,39,
+343,"Introduction to Self-Determination Theory: An approach to motivation, development and wellness",,Beginner,English,5.0,39,
+344,Introduction to Self-Driving Cars,,Beginner,English,5.0,39,
+345,Introduction to Social Media Marketing,,Beginner,English,5.0,39,
+346,Introduction to Software Product Management,,Beginner,English,5.0,39,
+347,Introduction to Spreadsheets and Models,,Beginner,Spanish,4.0,39,
+349,Introduction to Structured Query Language (SQL),,Beginner,English,5.0,39,
+350,Introduction to Sustainability,,Intermediate,English,5.0,39,
+351,Introduction to Systematic Review and Meta-Analysis,,Beginner,English,5.0,39,
+352,Introduction to Systems Engineering,,Intermediate,English,5.0,39,
+353,"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",,Beginner,English,5.0,39,
+355,Introduction to Typography,,Beginner,English,5.0,39,
+356,Introduction to User Experience Design,,Intermediate,English,4.0,39,
+357,Introduction to User Experience Principles and Processes,,Beginner,English,5.0,39,
+358,Introduction to Web Development,,Beginner,English,5.0,39,
+359,Introduction to the Biology of Cancer,,Beginner,English,5.0,39,
+360,Introduction to the Digital Advertising Landscape,,Beginner,English,4.0,39,
+361,Introductory Human Physiology,,Beginner,English,5.0,39,
+362,Introdução à Ciência da Computação com Python Parte 1,,Intermediate,English,5.0,39,
+363,Investment Management in an Evolving and Volatile World by HEC Paris and AXA Investment Managers,,Beginner,English,5.0,39,
+364,Japanese for beginners 1,,Beginner,English,3.0,39,
+365,Java Programming: Solving Problems with Software,,Beginner,English,4.0,39,
+367,L'excellence opérationnelle en pratique,,Beginner,English,5.0,39,
+368,Leadership in 21st Century Organizations,,Beginner,English,5.0,39,
+369,Leading Healthcare Quality and Safety,,Intermediate,English,5.0,39,
+370,"Leading for Equity, Diversity and Inclusion in Higher Education",,Beginner,English,5.0,39,
+371,Leading transformations: Manage change,,Beginner,English,4.0,39,
+373,Learn to Speak Korean 1,,Beginner,English,5.0,39,
+378,Love as a Force for Social Justice,,Beginner,English,5.0,39,
+379,Machine Learning,,Beginner,English,5.0,39,
+380,Machine Learning Foundations: A Case Study Approach,,Intermediate,English,4.0,39,
+381,Machine Learning for All,,Beginner,English,5.0,39,
+383,Machine Learning with Python,,Beginner,English,5.0,39,
+384,Magic in the Middle Ages,,Beginner,English,5.0,39,
+385,Making Architecture,,Beginner,English,5.0,39,
+386,Management of Fashion and Luxury Companies,,Beginner,English,5.0,39,
+387,Managerial Accounting Fundamentals,,Intermediate,English,5.0,39,
+388,Managing Project Risks and Changes,,Advanced,English,5.0,39,
+389,Managing an Agile Team,,Beginner,English,5.0,39,
+390,Managing as a Coach,,Beginner,English,5.0,39,
+391,Managing the Company of the Future,,Beginner,English,5.0,39,
+392,Marketing Analytics,,Beginner,English,5.0,39,
+393,Marketing Digital,,Beginner,English,5.0,39,
+395,Marketing in a Digital World,,Beginner,English,5.0,39,
+396,Mastering Data Analysis in Excel,,Intermediate,English,4.0,39,
+402,Medical Neuroscience,,Intermediate,English,5.0,39,
+403,Memoir and Personal Essay: Managing Your Relationship with the Reader,,Intermediate,English,4.0,39,
+404,Microeconomics Principles,,Intermediate,English,5.0,39,
+405,Mind Control: Managing Your Mental Health During COVID-19,,Intermediate,English,5.0,39,
+406,Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential,,Intermediate,English,5.0,39,
+408,Model Thinking,,Intermediate,English,5.0,39,
+409,Modern Art & Ideas,,Beginner,English,5.0,39,
+410,Modernizing Data Lakes and Data Warehouses with GCP,,Beginner,French,5.0,39,
